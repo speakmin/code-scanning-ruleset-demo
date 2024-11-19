@@ -1,1 +1,1 @@
-# code-scanning-ruleset-demo
+# Ruleset: Code Scanning Required DEMO
